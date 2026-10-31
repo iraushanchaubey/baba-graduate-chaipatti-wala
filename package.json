@@ -1,0 +1,9 @@
+{
+  "name": "baba-graduate-chaipatti-wala",
+  "version": "1.0.0",
+  "description": "Online store for chaipatti, masala chai and tea accessories",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
